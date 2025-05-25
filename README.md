@@ -115,7 +115,7 @@ Tidak terdapat duplikasi data di dataset ini.
 Akan menghasilkan output
 
 <p align="center">
-  <img src="assets/cek_outlier.png"width="500"/>
+  <img src="assets/visualisasi_outlier.png"width="500"/>
 </p>
 
 Terlihat ada variabel yang terdapat oulier, saya akan menghapus oulier tersebut.
