@@ -44,6 +44,7 @@ Dataset yang saya gunakan diambil dari platform open source Kaggle dan dipublika
     insight:
     - Dataset ini semua variabel numeric, 2 kolom bertipe data float64 dan 7 kolom bertipe data int64. 
     - Tidak terdapat Missing Values di dataset ini.
+    - Dataset terdiri dari 768 baris dan 9 bolom
 
 ### 3.1 Exploratory Data Analysis
 #### 3.1.1 Distribusi Fitur pada Dataset Diabetes
